@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\FPS.cs" />
+    <Compile Include="Assets\Scripts\Task1\CardChoser.cs" />
     <Compile Include="Assets\Scripts\Task1\Card.cs" />
     <Compile Include="Assets\Scripts\Task2\DialogueManager.cs" />
     <Compile Include="Assets\Scripts\Task1\CardsManager.cs" />
